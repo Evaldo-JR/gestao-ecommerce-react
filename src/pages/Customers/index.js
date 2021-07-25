@@ -17,6 +17,7 @@ export default function Customers() {
         if (dbClientes !== []) {
             init();
         }
+        // eslint-disable-next-line
     }, []);
 
     function init() {

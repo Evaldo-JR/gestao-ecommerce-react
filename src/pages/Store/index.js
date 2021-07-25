@@ -17,6 +17,7 @@ export default function Store() {
         if (dbProdutos !== []) {
             init();
         }
+        // eslint-disable-next-line
     }, []);
 
     function init() {
