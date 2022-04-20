@@ -1,6 +1,10 @@
 # GESTAO-ECOMMERCE-REACT
 Projeto criado para o Desafio #2 da Gama Academy. Este é meu primeiro projeto feito em ReactJS onde o usuário é capaz de cadastrar novos produtos e clientes para sua Loja Ecommerce.
----
+
+**Deploy feito no provedor: https://www.netlify.com/**
+
+**Link para visualização: https://evaldojr-gestao-ecommerce.netlify.app/**
+
 ## Funcionalidades
 
 - ***React-Router-DOM***
